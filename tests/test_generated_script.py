@@ -1,1 +1,1 @@
-hello
+Complete framework content as described above
